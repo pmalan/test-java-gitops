@@ -15,7 +15,7 @@ metadata:
     janus-idp.io/tekton: test
 spec:
   type: gitops
-  owner: user:default/psmalan 
+  owner: user:default/guest
   lifecycle: experimental
   dependsOn:
     - component:test
